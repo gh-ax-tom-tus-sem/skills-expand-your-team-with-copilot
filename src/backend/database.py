@@ -45,13 +45,13 @@ initial_activities = {
     },
     "Programming Class": {
         "description": "Learn programming fundamentals and build software projects",
-        "schedule": "Tuesdays and Thursdays, 7:00 AM - 8:00 AM",
+        "schedule": "Tuesdays, 5:00 PM - 6:00 PM",
         "schedule_details": {
-            "days": ["Tuesday", "Thursday"],
-            "start_time": "07:00",
-            "end_time": "08:00"
+            "days": ["Tuesday"],
+            "start_time": "17:00",
+            "end_time": "18:00"
         },
-        "max_participants": 20,
+        "max_participants": 25,
         "participants": ["emma@mergington.edu", "sophia@mergington.edu"]
     },
     "Morning Fitness": {
